@@ -1,0 +1,9 @@
+vpc_cidr      = "10.0.0.0/16"
+public_subnet = "10.0.1.0/24"
+availability_zone = "ap-south-1"
+public_cidr       = "10.0.0.0/24"
+destination_cidr = "0.0.0.0/0"
+aws_key          = "star"
+ssh_port =           22
+ami_id          = "ami-0aee0743bf2e81172"
+instance_name = "project_instance"
